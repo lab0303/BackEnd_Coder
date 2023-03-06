@@ -132,4 +132,6 @@ console.log(await productos.getProduct());
 
 }
 
-productosTotales();
+//productosTotales();
+
+module.exports = ProductManager
